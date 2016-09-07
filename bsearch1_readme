@@ -1,0 +1,16 @@
+problem statement: http://www.spoj.com/problems/BSEARCH1/
+
+day1:learned vector(pushing elements,displaying vector,including header file)
+day2:binary search
+     (bug1:passing vector as an argument
+      bug2:updating last and begining statements
+      bug3:error in updating the value of z
+      bug4:misplacement of endl command
+      )
+     Result:WA
+     solutions submitted:5
+ day3:bugs solved:error in updating the value of z,misplacement of endl command
+      tried using printf and scanf instead of cin and cout.
+      Result:TLE. :(
+      
+      
